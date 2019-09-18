@@ -1,0 +1,19 @@
+
+public static void main method(String... args){
+
+System.out.println("srinu")
+
+}
+private string;
+private int;
+private string;
+
+
+}
+
+void a(){
+
+System.out.println("control")
+
+
+}
