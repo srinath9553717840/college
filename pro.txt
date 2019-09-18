@@ -5,7 +5,7 @@ System.out.println("srinu")
 
 }
 private string;
-private int;
+
 
 
 
